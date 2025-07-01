@@ -5,10 +5,8 @@
 
 This project was developed as part of my internship application, showcasing my ability to build production-ready web applications using modern technologies. The application allows users to upload PDF documents and interact with them through an AI-powered question-answering system.
 
-**Developer**: [Your Name]  
-**Email**: [Your Email]  
-**LinkedIn**: [Your LinkedIn]  
-**GitHub**: [Your GitHub Profile]
+**Developer**:Sarafaraj Nasardi 
+**Email**: sarafarajnasardi786@gmail.com
 
 ## 🎯 Project Overview
 
