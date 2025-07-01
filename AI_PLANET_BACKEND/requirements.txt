@@ -1,0 +1,35 @@
+# Core framework
+fastapi
+uvicorn[standard]
+
+# Database and Pydantic
+sqlalchemy
+pydantic
+
+# File upload & PDF processing
+python-multipart
+PyMuPDF
+
+# Env config
+python-dotenv
+
+# OAuth2 via Google
+authlib
+starlette  # (authlib integration relies on it)
+
+# JWT Auth
+python-jose[cryptography]
+
+# LangChain Core + Integrations
+langchain
+langchain-community
+langchain-groq
+
+# Embeddings and Vector Store
+huggingface_hub
+sentence-transformers
+chromadb
+
+# Asynchronous HTTP requests (OAuth + LangChain)
+httpx
+itsdangerous
