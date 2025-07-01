@@ -293,12 +293,9 @@ I'm excited about the opportunity to bring these skills to your team and continu
 
 ## 📞 Contact Information
 
-**Name**: [Your Name]  
-**Email**: [Your Email]  
-**Phone**: [Your Phone]  
-**LinkedIn**: [Your LinkedIn Profile]  
-**GitHub**: [Your GitHub Profile]  
-**Portfolio**: [Your Portfolio Website]
+**Name**: Sarafaraj Nasardi  
+**Email**: sarafarajnasardi786@gmail.com  
+**Phone**: 9766798619 
 
 ---
 
